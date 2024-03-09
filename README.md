@@ -4,7 +4,7 @@
 - 🔭 Atualmente trabalhando como analista de dados;
 - 🌱 Estudando sobre ciência de dados e engenharia de dados;
 - 👯 Busco colaborar em projetos;
-- 🤔 Sintam-se livres para enviar feedbacks e discutir sobre algum projeto realizado; 
+- 🤔 Sinta-se livre para enviar feedbacks; 
 
 #### Como me encontrar📫:   
   
