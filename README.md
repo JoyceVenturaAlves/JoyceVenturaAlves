@@ -1,8 +1,8 @@
 ### Olá, meu nome é Joyce Ventura Alves👋
 #### Sobre mim:
 
-- 🔭 Atualmente trabalhando como analista de dados;
-- 🌱 Estudando sobre ciência de dados e engenharia de dados;
+- 🔭 Atualmente trabalhando como back-end developer;
+- 🌱 Aprofundando meus conhecimentos em Frameworks;
 - 👯 Busco colaborar em projetos;
 - 🤔 Sinta-se livre para enviar feedbacks; 
 
